@@ -288,8 +288,7 @@
       <img src="https://github.com/LAbyOne/CloverThemes/raw/master/Acqua/screenshot 2.png" class="w3-image w3-right" width="500">
      <div class="w3-padding-14 w3-center">
      <h5>© 2019-2023 LAbyOne</h5>
-    </div>
+<!--     </div> -->
+
 #
-#
-#
-[Themes Download](https://github.com/LAbyOne/CloverThemes/releases) 
+[Back](https://github.com/AcoUk/test) 
