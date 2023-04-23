@@ -289,4 +289,3 @@
      <div class="w3-padding-14 w3-center">
      <h5>© 2019-2023 LAbyOne</h5>
     </div>
-[Old Themes](Clover%20Themes_old.md)
