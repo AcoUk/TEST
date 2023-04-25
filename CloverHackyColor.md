@@ -5,7 +5,7 @@
   </header>
  </div>
   <!-- Photo Grid -->
-  <footer class="w3-LightGray w3-text-blue w3-padding-24 w3-center" id="Abstrac Steel">
+  <footer class="w3-LightGray w3-text-blue w3-padding-24 w3-center">
  <h2>animestyle / ApplePark</h2>
    <div class="w3-panel w3-border-top w3-border-bottom w3-border-LightGray">
   <div>
@@ -15,7 +15,7 @@
     </div>
  </div>
 </footer>
-  <footer class="w3-LightGray w3-text-blue w3-padding-24 w3-center" id="Abstract Steel">
+  <footer class="w3-LightGray w3-text-blue w3-padding-24 w3-center">
   <h2>BGM / BGM256</h2>
  <div class="w3-panel w3-border-top w3-border-bottom w3-border-LightGray">
   <div>
@@ -25,7 +25,7 @@
     </div>
  </div>
 </footer>
-  <footer class="w3-LightGray w3-text-blue w3-padding-24 w3-center" id="Silver Light">
+  <footer class="w3-LightGray w3-text-blue w3-padding-24 w3-center">
   <h2>BW-Appleminimal / black</h2>
    <div class="w3-panel w3-border-top w3-border-bottom w3-border-LightGray">
   <div>
@@ -35,7 +35,7 @@
     </div>
  </div>
 </footer>
-  <footer class="w3-LightGray w3-text-blue w3-padding-24 w3-center" id="Silver Dark">
+  <footer class="w3-LightGray w3-text-blue w3-padding-24 w3-center">
   <h2>Black-Blue / Borealis</h2>
    <div class="w3-panel w3-border-top w3-border-bottom w3-border-LightGray">
   <div>
@@ -45,7 +45,7 @@
     </div>
  </div>
 </footer>
-  <footer class="w3-LightGray w3-text-blue w3-padding-24 w3-center" id="Silver Violet">
+  <footer class="w3-LightGray w3-text-blue w3-padding-24 w3-center">
   <h2>Classy / CloverBadge</h2>
    <div class="w3-panel w3-border-top w3-border-bottom w3-border-LightGray">
   <div>
@@ -55,7 +55,7 @@
     </div>
  </div>
 </footer>
-  <footer class="w3-LightGray w3-text-blue w3-padding-24 w3-center" id="SilverSexy">
+  <footer class="w3-LightGray w3-text-blue w3-padding-24 w3-center">
   <h2>CloverCamp / CloverLight</h2>
    <div class="w3-panel w3-border-top w3-border-bottom w3-border-LightGray">
   <div>
@@ -65,7 +65,7 @@
     </div>
  </div>
 </footer>
-  <footer class="w3-LightGray w3-text-blue w3-padding-24 w3-center" id="Cushion">
+  <footer class="w3-LightGray w3-text-blue w3-padding-24 w3-center">
   <h2>CloverShine / Clovernity</h2>
      <div class="w3-panel w3-border-top w3-border-bottom w3-border-LightGray">
   <div>
@@ -75,7 +75,7 @@
     </div>
  </div>
 </footer>
-  <footer class="w3-LightGray w3-text-blue w3-padding-24 w3-center" id="Cushion Bluey">
+  <footer class="w3-LightGray w3-text-blue w3-padding-24 w3-center">
   <h2>CoolClover / CrispyOSX</h2>
    <div class="w3-panel w3-border-top w3-border-bottom w3-border-LightGray">
   <div>
@@ -85,7 +85,7 @@
     </div>
  </div>
 </footer>
-  <footer class="w3-LightGray w3-text-blue w3-padding-24 w3-center" id="Cushion Gray">
+  <footer class="w3-LightGray w3-text-blue w3-padding-24 w3-center">
   <h2>DarkBootX / Emerald</h2>
    <div class="w3-panel w3-border-top w3-border-bottom w3-border-LightGray">
   <div>
@@ -95,7 +95,7 @@
     </div>
  </div>
  </footer>
- <footer class="w3-LightGray w3-text-blue w3-padding-24 w3-center" id="BloodyCushion">
+ <footer class="w3-LightGray w3-text-blue w3-padding-24 w3-center">
   <h2>LightUp / mac</h2>
    <div class="w3-panel w3-border-top w3-border-bottom w3-border-LightGray">
   <div>
@@ -105,7 +105,7 @@
     </div>
  </div>
   </footer>
-  <footer class="w3-LightGray w3-text-blue w3-padding-24 w3-center" id="Flowers_2">
+  <footer class="w3-LightGray w3-text-blue w3-padding-24 w3-center">
   <h2>MacDrive / MACOSX</h2>
    <div class="w3-panel w3-border-top w3-border-bottom w3-border-LightGray">
   <div>
@@ -115,7 +115,7 @@
     </div>
  </div>
 </footer>
-  <footer class="w3-LightGray w3-text-blue w3-padding-24 w3-center" id="Marbles">
+  <footer class="w3-LightGray w3-text-blue w3-padding-24 w3-center">
   <h2>MacSteel / MacSystem</h2>
    <div class="w3-panel w3-border-top w3-border-bottom w3-border-LightGray">
   <div>
@@ -125,7 +125,7 @@
     </div>
  </div>
 </footer>
-  <footer class="w3-LightGray w3-text-blue w3-padding-24 w3-center" id="Waves">
+  <footer class="w3-LightGray w3-text-blue w3-padding-24 w3-center">
   <h2>macOS abd macOS12</h2>
    <div class="w3-panel w3-border-top w3-border-bottom w3-border-LightGray">
   <div>
@@ -135,7 +135,7 @@
     </div>
  </div>
 </footer>
-  <footer class="w3-LightGray w3-text-blue w3-padding-24 w3-center" id="Zhuyin">
+  <footer class="w3-LightGray w3-text-blue w3-padding-24 w3-center">
   <h2>MacSystem / metal</h2>
    <div class="w3-panel w3-border-top w3-border-bottom w3-border-LightGray">
   <div>
@@ -145,7 +145,7 @@
     </div>
  </div>
 </footer>
-  <footer class="w3-LightGray w3-text-blue w3-padding-24 w3-center" id="Sashiko">
+  <footer class="w3-LightGray w3-text-blue w3-padding-24 w3-center">
   <h2>Metro / mini</h2>
    <div class="w3-panel w3-border-top w3-border-bottom w3-border-LightGray">
   <div>
@@ -155,7 +155,7 @@
     </div>
  </div>
 </footer>
-  <footer class="w3-LightGray w3-text-blue w3-padding-24 w3-center" id="Miele">
+  <footer class="w3-LightGray w3-text-blue w3-padding-24 w3-center">
   <h2>Minimalism2 / mrengles</h2>
    <div class="w3-panel w3-border-top w3-border-bottom w3-border-LightGray">
   <div>
@@ -165,7 +165,7 @@
     </div>
  </div>
 </footer>
-  <footer class="w3-LightGray w3-text-blue w3-padding-24 w3-center" id="Delta">
+  <footer class="w3-LightGray w3-text-blue w3-padding-24 w3-center">
   <h2>OSS / OCIntegration</h2>
    <div class="w3-panel w3-border-top w3-border-bottom w3-border-LightGray">
   <div>
@@ -175,7 +175,7 @@
     </div>
  </div>
 </footer>
-  <footer class="w3-LightGray w3-text-blue w3-padding-24 w3-center" id="Pitch Black">
+  <footer class="w3-LightGray w3-text-blue w3-padding-24 w3-center">
   <h2>orange / os_one</h2>
    <div class="w3-panel w3-border-top w3-border-bottom w3-border-LightGray">
   <div>
@@ -185,7 +185,7 @@
     </div>
  </div>
 </footer>
-  <footer class="w3-LightGray w3-text-blue w3-padding-24 w3-center" id="DarkGray">
+  <footer class="w3-LightGray w3-text-blue w3-padding-24 w3-center">
   <h2>Pandora / Pixwall</h2>
    <div class="w3-panel w3-border-top w3-border-bottom w3-border-LightGray">
   <div>
@@ -195,7 +195,7 @@
     </div>
  </div>
 </footer>
-  <footer class="w3-LightGray w3-text-blue w3-padding-24 w3-center" id="NotWhite">
+  <footer class="w3-LightGray w3-text-blue w3-padding-24 w3-center">
   <h2>Apocalypse / Sharp</h2>
    <div class="w3-panel w3-border-top w3-border-bottom w3-border-LightGray">
   <div>
@@ -205,7 +205,7 @@
     </div>
  </div>
 </footer>
-  <footer class="w3-LightGray w3-text-blue w3-padding-24 w3-center" id="NotWhite">
+  <footer class="w3-LightGray w3-text-blue w3-padding-24 w3-center">
   <h2>SilverLight / Aero</h2>
    <div class="w3-panel w3-border-top w3-border-bottom w3-border-LightGray">
   <div>
@@ -216,7 +216,7 @@
  </div>
 </footer>
 
-  <footer class="w3-LightGray w3-text-blue w3-padding-24 w3-center" id="NotWhite 2">
+  <footer class="w3-LightGray w3-text-blue w3-padding-24 w3-center">
   <h2>Simplicity / sketched_dark</h2>
    <div class="w3-panel w3-border-top w3-border-bottom w3-border-LightGray">
   <div>
@@ -226,7 +226,7 @@
     </div>
  </div>
 </footer>
-  <footer class="w3-LightGray w3-text-blue w3-padding-24 w3-center" id="Red">
+  <footer class="w3-LightGray w3-text-blue w3-padding-24 w3-center">
   <h2>steampunkblack / System</h2>
    <div class="w3-panel w3-border-top w3-border-bottom w3-border-LightGray">
   <div>
@@ -236,7 +236,7 @@
     </div>
  </div>
 </footer>
-  <footer class="w3-LightGray w3-text-blue w3-padding-24 w3-center" id="Velvet">
+  <footer class="w3-LightGray w3-text-blue w3-padding-24 w3-center">
   <h2>thinkpad / Universe</h2>
    <div class="w3-panel w3-border-top w3-border-bottom w3-border-LightGray">
   <div>
@@ -247,7 +247,7 @@
  </div>
 </footer>
 
-  <footer class="w3-LightGray w3-text-blue w3-padding-24 w3-center" id="Ochre">
+  <footer class="w3-LightGray w3-text-blue w3-padding-24 w3-center">
   <h2>WorldCup / YosemiteLogin</h2>
    <div class="w3-panel w3-border-top w3-border-bottom w3-border-LightGray">
   <div>
@@ -257,7 +257,7 @@
     </div>
  </div>
 </footer>
-  <footer class="w3-LightGray w3-text-blue w3-padding-24 w3-center" id="Acqua">
+  <footer class="w3-LightGray w3-text-blue w3-padding-24 w3-center">
   <h2>Beauty / BeautyDark</h2>
    <div class="w3-panel w3-border-top w3-border-bottom w3-border-LightGray">
   <div>
@@ -267,7 +267,7 @@
     </div>
   <footer>
   <div>
-  <footer class="w3-LightGray w3-text-blue w3-padding-24 w3-center" id="Abstrac Steel">
+  <footer class="w3-LightGray w3-text-blue w3-padding-24 w3-center">
   <h2>BeautyX / BigSur</h2>
    <div class="w3-panel w3-border-top w3-border-bottom w3-border-LightGray">
   <div>
@@ -277,7 +277,7 @@
     </div>
  </div>
 </footer>
-  <footer class="w3-LightGray w3-text-blue w3-padding-24 w3-center" id="Abstract Steel">
+  <footer class="w3-LightGray w3-text-blue w3-padding-24 w3-center">
   <h2>Buttons / Carbon</h2>
  <div class="w3-panel w3-border-top w3-border-bottom w3-border-LightGray">
   <div>
@@ -287,7 +287,7 @@
     </div>
  </div>
 </footer>
-  <footer class="w3-LightGray w3-text-blue w3-padding-24 w3-center" id="Silver Light">
+  <footer class="w3-LightGray w3-text-blue w3-padding-24 w3-center">
   <h2>Catalina / Catalina4k</h2>
    <div class="w3-panel w3-border-top w3-border-bottom w3-border-LightGray">
   <div>
@@ -297,7 +297,7 @@
     </div>
  </div>
 </footer>
-  <footer class="w3-LightGray w3-text-blue w3-padding-24 w3-center" id="Silver Dark">
+  <footer class="w3-LightGray w3-text-blue w3-padding-24 w3-center">
   <h2>Chamelia / Circla</h2>
    <div class="w3-panel w3-border-top w3-border-bottom w3-border-LightGray">
   <div>
@@ -307,7 +307,7 @@
     </div>
  </div>
 </footer>
-  <footer class="w3-LightGray w3-text-blue w3-padding-24 w3-center" id="Silver Violet">
+  <footer class="w3-LightGray w3-text-blue w3-padding-24 w3-center">
   <h2>Classical / ClassicalDark</h2>
    <div class="w3-panel w3-border-top w3-border-bottom w3-border-LightGray">
   <div>
@@ -317,7 +317,7 @@
     </div>
  </div>
 </footer>
-  <footer class="w3-LightGray w3-text-blue w3-padding-24 w3-center" id="SilverSexy">
+  <footer class="w3-LightGray w3-text-blue w3-padding-24 w3-center">
   <h2>Clovernity / Crystal</h2>
    <div class="w3-panel w3-border-top w3-border-bottom w3-border-LightGray">
   <div>
@@ -327,7 +327,7 @@
     </div>
  </div>
 </footer>
-  <footer class="w3-LightGray w3-text-blue w3-padding-24 w3-center" id="Cushion">
+  <footer class="w3-LightGray w3-text-blue w3-padding-24 w3-center">
   <h2>DarkBoot / DarkBootX</h2>
    <div class="w3-panel w3-border-top w3-border-bottom w3-border-LightGray">
   <div>
@@ -337,7 +337,7 @@
     </div>
  </div>
 </footer>
-  <footer class="w3-LightGray w3-text-blue w3-padding-24 w3-center" id="Cushion Bluey">
+  <footer class="w3-LightGray w3-text-blue w3-padding-24 w3-center">
   <h2>Glassy / FlatCamp</h2>
    <div class="w3-panel w3-border-top w3-border-bottom w3-border-LightGray">
   <div>
@@ -347,7 +347,7 @@
     </div>
  </div>
 </footer>
- <footer class="w3-LightGray w3-text-blue w3-padding-24 w3-center" id="BloodyCushion">
+ <footer class="w3-LightGray w3-text-blue w3-padding-24 w3-center">
   <h2>Gothic / Greenify</h2>
    <div class="w3-panel w3-border-top w3-border-bottom w3-border-LightGray">
   <div>
@@ -357,7 +357,7 @@
     </div>
  </div>
   </footer>
-  <footer class="w3-LightGray w3-text-blue w3-padding-24 w3-center" id="Flowers_2">
+  <footer class="w3-LightGray w3-text-blue w3-padding-24 w3-center">
   <h2>Hex256 / Hexagon</h2>
    <div class="w3-panel w3-border-top w3-border-bottom w3-border-LightGray">
   <div>
@@ -367,7 +367,7 @@
     </div>
  </div>
 </footer>
-  <footer class="w3-LightGray w3-text-blue w3-padding-24 w3-center" id="Marbles">
+  <footer class="w3-LightGray w3-text-blue w3-padding-24 w3-center">
   <h2>HexagonDark / HighSierra</h2>
    <div class="w3-panel w3-border-top w3-border-bottom w3-border-LightGray">
   <div>
@@ -377,7 +377,7 @@
     </div>
  </div>
 </footer>
-  <footer class="w3-LightGray w3-text-blue w3-padding-24 w3-center" id="Waves">
+  <footer class="w3-LightGray w3-text-blue w3-padding-24 w3-center">
   <h2>InsanelyLook / Leather</h2>
    <div class="w3-panel w3-border-top w3-border-bottom w3-border-LightGray">
   <div>
@@ -387,7 +387,7 @@
     </div>
  </div>
 </footer>
-  <footer class="w3-LightGray w3-text-blue w3-padding-24 w3-center" id="Zhuyin">
+  <footer class="w3-LightGray w3-text-blue w3-padding-24 w3-center">
   <h2>Lightness / Luxury</h2>
    <div class="w3-panel w3-border-top w3-border-bottom w3-border-LightGray">
   <div>
@@ -397,7 +397,7 @@
     </div>
  </div>
 </footer>
-  <footer class="w3-LightGray w3-text-blue w3-padding-24 w3-center" id="Sashiko">
+  <footer class="w3-LightGray w3-text-blue w3-padding-24 w3-center">
   <h2>Material / MaterialBox</h2>
    <div class="w3-panel w3-border-top w3-border-bottom w3-border-LightGray">
   <div>
@@ -407,7 +407,7 @@
     </div>
  </div>
 </footer>
-  <footer class="w3-LightGray w3-text-blue w3-padding-24 w3-center" id="Miele">
+  <footer class="w3-LightGray w3-text-blue w3-padding-24 w3-center">
   <h2>MaterialDark / Mojave</h2>
    <div class="w3-panel w3-border-top w3-border-bottom w3-border-LightGray">
   <div>
@@ -417,7 +417,7 @@
     </div>
  </div>
 </footer>
-  <footer class="w3-LightGray w3-text-blue w3-padding-24 w3-center" id="Delta">
+  <footer class="w3-LightGray w3-text-blue w3-padding-24 w3-center">
   <h2>Neon / Nightwish</h2>
    <div class="w3-panel w3-border-top w3-border-bottom w3-border-LightGray">
   <div>
@@ -427,7 +427,7 @@
     </div>
  </div>
 </footer>
-  <footer class="w3-LightGray w3-text-blue w3-padding-24 w3-center" id="Pitch Black">
+  <footer class="w3-LightGray w3-text-blue w3-padding-24 w3-center">
   <h2>Oceanix / One</h2>
    <div class="w3-panel w3-border-top w3-border-bottom w3-border-LightGray">
   <div>
@@ -437,7 +437,7 @@
     </div>
  </div>
 </footer>
-  <footer class="w3-LightGray w3-text-blue w3-padding-24 w3-center" id="DarkGray">
+  <footer class="w3-LightGray w3-text-blue w3-padding-24 w3-center">
   <h2>Outlines / QB</h2>
    <div class="w3-panel w3-border-top w3-border-bottom w3-border-LightGray">
   <div>
@@ -447,7 +447,7 @@
     </div>
  </div>
 </footer>
-  <footer class="w3-LightGray w3-text-blue w3-padding-24 w3-center" id="NotWhite">
+  <footer class="w3-LightGray w3-text-blue w3-padding-24 w3-center">
   <h2>Retina / Romance</h2>
    <div class="w3-panel w3-border-top w3-border-bottom w3-border-LightGray">
   <div>
@@ -457,7 +457,7 @@
     </div>
  </div>
 </footer>
-  <footer class="w3-LightGray w3-text-blue w3-padding-24 w3-center" id="NotWhite">
+  <footer class="w3-LightGray w3-text-blue w3-padding-24 w3-center">
   <h2>Smooth / Sphere</h2>
    <div class="w3-panel w3-border-top w3-border-bottom w3-border-LightGray">
   <div>
@@ -468,7 +468,7 @@
  </div>
 </footer>
 
-  <footer class="w3-LightGray w3-text-blue w3-padding-24 w3-center" id="NotWhite 2">
+  <footer class="w3-LightGray w3-text-blue w3-padding-24 w3-center">
   <h2>Underground / Woody</h2>
    <div class="w3-panel w3-border-top w3-border-bottom w3-border-LightGray">
   <div>
@@ -478,7 +478,7 @@
     </div>
  </div>
 </footer>
-  <footer class="w3-LightGray w3-text-blue w3-padding-24 w3-center" id="Red">
+  <footer class="w3-LightGray w3-text-blue w3-padding-24 w3-center">
   <h2>Xmas / Luxury2.0</h2>
    <div class="w3-panel w3-border-top w3-border-bottom w3-border-LightGray">
   <div>
@@ -488,7 +488,7 @@
     </div>
  </div>
 </footer>
-  <footer class="w3-LightGray w3-text-blue w3-padding-24 w3-center" id="Velvet">
+  <footer class="w3-LightGray w3-text-blue w3-padding-24 w3-center">
   <h2>BGO / Groovy</h2>
    <div class="w3-panel w3-border-top w3-border-bottom w3-border-LightGray">
   <div>
@@ -499,7 +499,7 @@
  </div>
 </footer>
 
-  <footer class="w3-LightGray w3-text-blue w3-padding-24 w3-center" id="Ochre">
+  <footer class="w3-LightGray w3-text-blue w3-padding-24 w3-center">
   <h2>MacPro / MacProVentura</h2>
    <div class="w3-panel w3-border-top w3-border-bottom w3-border-LightGray">
   <div>
@@ -509,7 +509,7 @@
     </div>
  </div>
 </footer>
-  <footer class="w3-LightGray w3-text-blue w3-padding-24 w3-center" id="Acqua">
+  <footer class="w3-LightGray w3-text-blue w3-padding-24 w3-center">
   <h2>MavericksLogin / Minimalism</h2>
    <div class="w3-panel w3-border-top w3-border-bottom w3-border-LightGray">
   <div>
@@ -519,7 +519,7 @@
     </div>
   <footer>
   <div>
-  <footer class="w3-LightGray w3-text-blue w3-padding-24 w3-center" id="Abstrac Steel">
+  <footer class="w3-LightGray w3-text-blue w3-padding-24 w3-center">
   <h2>Ransom / Shield</h2>
    <div class="w3-panel w3-border-top w3-border-bottom w3-border-LightGray">
   <div>
@@ -529,7 +529,7 @@
     </div>
  </div>
 </footer>
-  <footer class="w3-LightGray w3-text-blue w3-padding-24 w3-center" id="Abstract Steel">
+  <footer class="w3-LightGray w3-text-blue w3-padding-24 w3-center">
   <h2>Tribute / alienware</h2>
  <div class="w3-panel w3-border-top w3-border-bottom w3-border-LightGray">
   <div>
@@ -539,7 +539,7 @@
     </div>
  </div>
 </footer>
-  <footer class="w3-LightGray w3-text-blue w3-padding-24 w3-center" id="Silver Light">
+  <footer class="w3-LightGray w3-text-blue w3-padding-24 w3-center">
   <h2>applestyle / blackbc</h2>
    <div class="w3-panel w3-border-top w3-border-bottom w3-border-LightGray">
   <div>
@@ -549,7 +549,7 @@
     </div>
  </div>
 </footer>
-  <footer class="w3-LightGray w3-text-blue w3-padding-24 w3-center" id="Silver Dark">
+  <footer class="w3-LightGray w3-text-blue w3-padding-24 w3-center">
   <h2>blacktype / bluejeans</h2>
    <div class="w3-panel w3-border-top w3-border-bottom w3-border-LightGray">
   <div>
@@ -559,7 +559,7 @@
     </div>
  </div>
 </footer>
-  <footer class="w3-LightGray w3-text-blue w3-padding-24 w3-center" id="Silver Violet">
+  <footer class="w3-LightGray w3-text-blue w3-padding-24 w3-center">
   <h2>blur / bootcamp</h2>
    <div class="w3-panel w3-border-top w3-border-bottom w3-border-LightGray">
   <div>
@@ -569,7 +569,7 @@
     </div>
  </div>
 </footer>
-  <footer class="w3-LightGray w3-text-blue w3-padding-24 w3-center" id="SilverSexy">
+  <footer class="w3-LightGray w3-text-blue w3-padding-24 w3-center">
   <h2>bootcamp2.0 / christmas</h2>
    <div class="w3-panel w3-border-top w3-border-bottom w3-border-LightGray">
   <div>
@@ -579,7 +579,7 @@
     </div>
  </div>
 </footer>
-  <footer class="w3-LightGray w3-text-blue w3-padding-24 w3-center" id="Cushion">
+  <footer class="w3-LightGray w3-text-blue w3-padding-24 w3-center">
   <h2>gold_clover / dark</h2>
    <div class="w3-panel w3-border-top w3-border-bottom w3-border-LightGray">
   <div>
@@ -589,7 +589,7 @@
     </div>
  </div>
 </footer>
-  <footer class="w3-LightGray w3-text-blue w3-padding-24 w3-center" id="Cushion Bluey">
+  <footer class="w3-LightGray w3-text-blue w3-padding-24 w3-center">
   <h2>hellfire-reborn / iMacPro</h2>
    <div class="w3-panel w3-border-top w3-border-bottom w3-border-LightGray">
   <div>
@@ -599,7 +599,7 @@
     </div>
  </div>
 </footer>
-  <footer class="w3-LightGray w3-text-blue w3-padding-24 w3-center" id="Cushion Gray">
+  <footer class="w3-LightGray w3-text-blue w3-padding-24 w3-center">
   <h2>iclover / ios7</h2>
    <div class="w3-panel w3-border-top w3-border-bottom w3-border-LightGray">
   <div>
@@ -609,7 +609,7 @@
     </div>
  </div>
  </footer>
- <footer class="w3-LightGray w3-text-blue w3-padding-24 w3-center" id="BloodyCushion">
+ <footer class="w3-LightGray w3-text-blue w3-padding-24 w3-center">
   <h2>newyear / os_box</h2>
    <div class="w3-panel w3-border-top w3-border-bottom w3-border-LightGray">
   <div>
@@ -619,7 +619,7 @@
     </div>
  </div>
   </footer>
-  <footer class="w3-LightGray w3-text-blue w3-padding-24 w3-center" id="Flowers_2">
+  <footer class="w3-LightGray w3-text-blue w3-padding-24 w3-center">
   <h2>os_one / sketched</h2>
    <div class="w3-panel w3-border-top w3-border-bottom w3-border-LightGray">
   <div>
@@ -629,16 +629,17 @@
     </div>
  </div>
 </footer>
-  <footer class="w3-LightGray w3-text-blue w3-padding-24 w3-center" id="Marbles">
-  <h2>ufo</h2>
+  <footer class="w3-LightGray w3-text-blue w3-padding-24 w3-center">
+  <h2>ufo / cesium</h2>
    <div class="w3-panel w3-border-top w3-border-bottom w3-border-LightGray">
   <div>
       <img src="https://github.com/CloverHackyColor/CloverThemes/raw/master/ufo/screenshot.png" class="w3-image w3-left" width="500">
+	  <img src="https://user-images.githubusercontent.com/6248794/163851959-35c85d14-9eeb-497f-815f-8fe61d4a7014.gif" class="w3-image w3-left" width="500">
 	  <div class="w3-padding-14 w3-center">
     </div>
   <footer>
   <div>
-  <footer class="w3-LightGray w3-text-blue w3-padding-10 w3-center" id="Banner">
+  <footer class="w3-LightGray w3-text-blue w3-padding-10 w3-center">
   <h5>- CloverHackyColor Themes Collection</h5>
 <!--     </div> -->
 
