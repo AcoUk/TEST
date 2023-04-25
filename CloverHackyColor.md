@@ -639,7 +639,7 @@
   <footer>
   <div>
   <footer class="w3-LightGray w3-text-blue w3-padding-10 w3-center" id="Banner">
-  <h5>© 2019-2023 CloverHackyColor</h5>
+  <h5>- CloverHackyColor Themes Collection</h5>
 <!--     </div> -->
 
 #
