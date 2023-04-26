@@ -6,24 +6,14 @@
  </div>
   <!-- Photo Grid -->
   <footer class="w3-LightGray w3-text-blue w3-padding-24 w3-center">
- <h2>Aero / ApplePark</h2>
+ <h2>Aero / Apocalypse</h2>
    <div class="w3-panel w3-border-top w3-border-bottom w3-border-LightGray">
   <div>
       <img src="https://github.com/CloverHackyColor/CloverThemes/raw/master/Aero/screenshot.png" class="w3-image w3-left" width="500">
-	  <img src="https://github.com/CloverHackyColor/CloverThemes/raw/master/ApplePark/screenshot.png" class="w3-image w3-right" width="500">
+	  <img src="https://github.com/CloverHackyColor/CloverThemes/raw/master/Apocalypse/screenshot.png" class="w3-image w3-right" width="500">
      <div class="w3-padding-14 w3-center">
     </div>
  </div>
- </footer>
-   <footer class="w3-LightGray w3-text-blue w3-padding-24 w3-center">
-   <h2>Apocalypse / Clovernity</h2>
-      <div class="w3-panel w3-border-top w3-border-bottom w3-border-LightGray">
-   <div>
-       <img src="https://github.com/CloverHackyColor/CloverThemes/raw/master/Apocalypse/screenshot.png" class="w3-image w3-left" width="500">
-       <img src="https://github.com/CloverHackyColor/CloverThemes/raw/master/Clovernity/screenshot.png" class="w3-image w3-right" width="500">
-      <div class="w3-padding-14 w3-center">
-     </div>
-  </div>
  </footer>
   <footer class="w3-LightGray w3-text-blue w3-padding-24 w3-center">
   <h2>Beauty / BeautyDark</h2>
